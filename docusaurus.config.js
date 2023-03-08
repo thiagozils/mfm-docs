@@ -21,7 +21,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'thiagozils', // Usually your GitHub org/user name.
   projectName: 'mfm-docs', // Usually your repo name.
-  deploymentBranch: 'deployment',
+  deploymentBranch: 'main',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
