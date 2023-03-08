@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmfm_docs=self.webpackChunkmfm_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Vers\xe3o 2.0.10 do MFM","permalink":"/mfm-docs/en/blog/2-0-10-version"},{"title":"Vers\xe3o 2.0 do MFM","permalink":"/mfm-docs/en/blog/2-0-version"}]}')}}]);

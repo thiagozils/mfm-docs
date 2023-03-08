@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmfm_docs=self.webpackChunkmfm_docs||[]).push([[145],{8445:s=>{s.exports=JSON.parse('{"label":"welcome","permalink":"/mfm-docs/blog/tags/welcome","allTagsPath":"/mfm-docs/blog/tags","count":1}')}}]);
